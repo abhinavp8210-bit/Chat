@@ -1,0 +1,4 @@
+body { font-family: Arial; text-align: center; }
+input { padding: 10px; margin: 10px; width: 200px; }
+button { padding: 10px; margin: 5px; }
+#chatBox { margin: 10px auto; width: 300px; padding: 5px; background:#f1f1f1; }
